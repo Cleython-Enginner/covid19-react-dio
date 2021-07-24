@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Projeto realizado no Bootcamp SPTech Desenvolvimento Fullstack na Digital Innovation One
+
+
+### Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo.
+
 
 ## Available Scripts
 
